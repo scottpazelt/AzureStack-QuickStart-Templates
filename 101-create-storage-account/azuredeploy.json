@@ -9,7 +9,7 @@
         "Standard_GRS",
         "Standard_RAGRS"
       ],
-      "defaultValue": "Standard_LRS",
+      "defaultValue": "Standard_GRS",
       "metadata": {
         "description": "Type of redundancy for your storage account"
       }
